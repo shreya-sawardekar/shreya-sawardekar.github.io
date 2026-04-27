@@ -1,3 +1,3 @@
 # shreya-sawardekar.github.io
 
-A site created for adding to uses.tech. 
+A /uses page detailing developer setups, gear, software and configs.
