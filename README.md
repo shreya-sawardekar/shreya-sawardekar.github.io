@@ -1,3 +1,3 @@
 # shreya-sawardekar.github.io
 
-Shreya Sawardekar | Uses
+A site created for adding to uses.tech. 
