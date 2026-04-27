@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.mb-2 {
+    margin-bottom: 2rem;
+}
+
+header h1::before {
+    content: "";
+}
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+nav ul {
+    display: flex;
+    gap: 2rem;
+    li {
+        list-style-image: none;
+        list-style: none;
+    }
+}
+h3 {
+    text-decoration: underline;
+}
